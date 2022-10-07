@@ -1,0 +1,8 @@
+Constructor :
+Constructor is a special type of method, in which method name is as same as class name.
+Automatic intialization is happend through the constuctor.
+The main purpose of  constructor is to intialize an object.
+The constructor is intializes immediately an object after creation of a constructor.
+Properties of a constructor :
+method name is as same as class name.
+it does not contain any return type.
