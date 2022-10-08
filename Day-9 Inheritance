@@ -1,0 +1,4 @@
+Inheritance is happened through the "extends" keyword.
+in the inheritance subclass can be inherit the properties of a superclass
+but, in the superclass can't be inherit the properties of a subclass.
+actually, we can't perform the multilevel inheritance but by using we can using the "interface" we can achieve the multilevel inheritance.
