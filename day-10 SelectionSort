@@ -1,0 +1,5 @@
+SelectionSort :
+SelectionSort is a sortingTechnique,
+in which we can arrange n elements in an array
+by replacing smallest element in the proper position,
+incase of an ascending order.
