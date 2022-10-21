@@ -1,0 +1,7 @@
+Schema:
+ Schema is nothing but a description of a database.
+ Schema is used to define Structure of a database.
+ which include, Constraints, Datatypes and Structures.
+ Schema is a Logical Representation.
+ Schema is also called as Skeleton form of a database.
+  Eg: Tables, Datatypes, Columns, Views.
