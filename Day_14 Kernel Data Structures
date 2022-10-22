@@ -1,0 +1,15 @@
+Kernel Data Structures:
+
+It is a software or hardware of an operating system.
+It is a lowest layer of an operating system.
+It is a part of an operating system.
+Which provide services to all parts of an operating system.
+It acts as interface between hardware and processes of a computer.
+It loads when operating system loads, and remains in the memory until
+ Operating system shutdown.
+
+Functions:
+
+1.Task Management
+2.Memory Management
+3.Device Management 
