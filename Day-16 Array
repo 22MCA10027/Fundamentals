@@ -1,0 +1,6 @@
+Array:
+ An array is a collection of homogenious group of data elements or variables,
+that are reffered to by a common name.
+ Arrays of any type can be created and may have one or more dimentions.
+A specific element in an array is accessed by its index.
+ Arrays offer a convienient means of grouping related information.
