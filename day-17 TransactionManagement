@@ -1,0 +1,6 @@
+Transaction Management:
+
+ Transaction Management is a set of logically related operations.
+ It can be defined as a group of Tasks.
+ A single task is minimum processing unit, 
+  which can't be decided further.
