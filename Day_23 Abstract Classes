@@ -1,0 +1,15 @@
+Abstract Classes:
+It define a superclass that declares the structure 
+of a given abstraction without providing a 
+complete implementation of every method. 
+ We can create a superclass that only defines a 
+generalized form that will be shared by all of its 
+subclasses, leaving it to each subclass to fill in 
+the details. 
+ This situation can occur is when a superclass is 
+unable to create a meaningful implementation 
+for a method
+  In this abstract class, we can't achieve 100% abstraction 
+I.e., we can't achieve full security to our data.
+  Any class that contains one or more abstract methods 
+must also be declared abstract. 
