@@ -1,0 +1,17 @@
+Packages:
+
+Packages are containers for classes that are used to 
+keep the class name space compartmentalized.
+
+Java provides a mechanism forpartitioning the class
+name space into more manageable chunks.
+this mechanism is package.
+
+Package is both a naming and a visibility control
+mechanism.
+
+You can define classes inside a package that 
+are not acessable by code outside that package.
+
+You can also define class members that are only exposed 
+to other rmembers of the same package.
