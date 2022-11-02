@@ -1,0 +1,13 @@
+Exception Handling
+
+The Exception Handling in Java is one of the powerful mechanism
+to handle the runtime errors so that the normal flow of the application can be maintained.
+In this tutorial, we will learn about Java exceptions, 
+it's types, and the difference between checked and unchecked exceptions.
+Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, 
+IOException, SQLException, RemoteException, etc.
+
+Advantages of ExceptionHandling:
+
+The core advantage of exception handling is to maintain the normal flow of the application. An exception normally disrupts 
+the normal flow of the application; that is why we need to handle exceptions.
