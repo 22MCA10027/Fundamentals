@@ -1,0 +1,7 @@
+StringPool:
+
+String pool is nothing but a storage area in Java heap where string literals stores.
+It is also known as String Intern Pool or String Constant Pool. It is just like object allocation.
+By default, it is empty and privately maintained by the Java String class.
+Whenever we create a string the string object occupies some space in the heap memory.
+Creating a number of strings may increase the cost and memory too which may reduce the performance also.
