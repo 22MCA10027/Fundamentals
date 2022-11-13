@@ -1,0 +1,8 @@
+Java Tokens:
+
+In Java, the program contains classes and methods. 
+Further, the methods contain the expressions 
+and statements required to perform a specific operation. 
+These statements and expressions are made up of tokens.
+In other words, we can say that the expression and statement is a set of tokens.
+The tokens are the small building blocks of a Java program that are meaningful to the Java compiler.
