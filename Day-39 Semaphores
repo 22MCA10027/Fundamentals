@@ -1,0 +1,10 @@
+Semaphores:
+
+ Semaphore is an integer variable, which is accessed by a process
+ for to achieve synchronization.
+ semaphore is used as a solutiion for resolving the 
+ critical section problem.
+ which contain two types, 
+  i.e., 
+        1.Binar Code/ Mutex Lock
+        2.Counter Code
