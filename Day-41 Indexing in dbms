@@ -1,0 +1,20 @@
+Indexing in DBMS:
+
+Indexing is a data structure technique to efficiently retrieve records 
+from the database files based on some attributes on which the indexing has been done.
+Indexing is defined based on its indexing attributes. 
+
+Indexing can be of the following types:
+
+1.Primary Index − Primary index is defined on an ordered data file.
+The data file is ordered on a key field. The key field is generally the primary key of the relation.
+
+2.Secondary Index − Secondary index may be generated from a field which is a candidate key
+and has a unique value in every record, or a non-key with duplicate values.
+
+3.Clustering Index − Clustering index is defined on an ordered data file.
+The data file is ordered on a non-key field.
+
+Ordered Indexing is of two types: 
+Dense Index
+Sparse Index
