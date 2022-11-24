@@ -1,0 +1,10 @@
+Applet in Java:
+
+An applet is a Java program that runs in a Web browser.
+An applet can be a fully functional Java application because it has the entire Java API at its disposal.
+
+which including the following −
+
+An applet is a Java class that extends the java.applet.Applet class.
+A main() method is not invoked on an applet, and an applet class will not define main().
+Applets are designed to be embedded within an HTML page.
