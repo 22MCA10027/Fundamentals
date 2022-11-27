@@ -1,0 +1,7 @@
+ROM:
+ROM, which stands for read only memory,
+In which we can store the data information permanently.
+It is also the primary memory unit of a computer along with the random access memory (RAM).
+It is called read only memory as we can only read the programs and data stored on it but cannot write on it. 
+It is restricted to reading words that are permanently stored within the unit.
+In which we can't reprogram, rewrite, or erase its content later. However, there are some types of ROM where you can modify the data.
