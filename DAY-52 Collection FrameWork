@@ -1,0 +1,6 @@
+Collection Framework in java:
+
+The Java Collections framework is a Set of classes, objects and Interfaces
+that Implement Commonly reusable collection Data Structures(List,Maps,Sets,Queues)
+In java if we want to store multiple items of homogenous data types we can use “Arrays”. 
+ Arrays can hold both primitive data types and objects.
