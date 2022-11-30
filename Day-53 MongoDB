@@ -1,0 +1,10 @@
+Mongo DB:
+
+MongoDB is an open-source, cross-platform, distributed document database. 
+MongoDB is developed by MongoDB Inc. and categorized as a NoSQL database.
+Mongo DB is easy to use.
+MongoDB is a document-oriented database. 
+It uses the concept of the document to store data,
+which is more flexible than the row concept in the relational database management system (RDBMS).
+A document allows you to represent complex hierarchical relationships with a single record.
+MongoDB doesn’t require predefined schemas that allow you to add to or remove fields from documents more quickly.
