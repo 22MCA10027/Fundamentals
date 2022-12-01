@@ -1,0 +1,14 @@
+The most basic GUI elements you will be dealing with in Java include what are known as containers and components. 
+A container is used to store the items the user will see on display, such as a panel or a frame (main window).
+These are the very core of what holds everything together and are the primary skeletal system of the GUI as a whole.
+
+Components can be described as the add-ons or extensions to the containers that help to fill in the content 
+and make up the rest of the user interface.
+Examples can include things such as a 
+textbox,
+a checkbox,
+command box, 
+Scroll bar,
+window,
+a radio button,
+or even a simple label, etc.
