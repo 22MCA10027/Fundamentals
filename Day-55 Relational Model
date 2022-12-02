@@ -1,0 +1,7 @@
+Relational Model:
+
+It was introduced by EF Codd in 1970's.
+Relational model is a table with a collection tuples and attributes.
+which is based on mathematical concepts.
+It is implemented in RDBMS.
+Eg: SQL, SQL Server, MS Access.
