@@ -1,0 +1,7 @@
+Cassandra DataBase:
+
+Cassandra is a NoSQL database which is distributed and scalable.
+It is provided by Apache.
+Apache Cassandra is the only distributed NoSQL database that delivers the always-on availability,
+blisteringly fast read-write performance, 
+and unlimited linear scalability needed to meet the demands of successful modern applications. 
