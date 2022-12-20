@@ -1,0 +1,6 @@
+Client server computing:
+
+In client server computing, 
+the clients requests a resource and the server provides that resource.
+A server may serve multiple clients at the same time while a client is in contact with only one server. 
+Both the client and server usually communicate via a computer network but sometimes they may reside in the same system.
