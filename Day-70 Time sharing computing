@@ -1,0 +1,6 @@
+Time-Sharing Computing Environment : 
+In Time Sharing Computing Environment multiple users share system simultaneously.
+ Different users (different processes) are allotted different time slice 
+and processor switches rapidly among users according to it. For example,
+ student listening to music while coding something in an IDE. Windows 95 and later versions, Unix, IOS, 
+Linux operating systems are the examples of this time sharing computing environment.
