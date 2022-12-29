@@ -1,0 +1,7 @@
+Distributed Computing : 
+
+In a distributed computing environment multiple nodes are connected together
+using network but physically they are separated.
+A single task is performed by different functional units of different nodes of distributed unit.
+Here different programs of an application run simultaneously on different nodes, 
+and communication happens in between different nodes of this system over network to solve task.
