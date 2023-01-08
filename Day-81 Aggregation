@@ -1,0 +1,6 @@
+Aggregation:
+
+Aggregation is a way to achieve Association. Aggregation represents the relationship where one object contains other objects as a part of its state.
+It represents the weak relationship between objects.
+It is also termed as a has-a relationship in Java. Like, inheritance represents the is-a relationship. 
+It is another way to reuse objects.
