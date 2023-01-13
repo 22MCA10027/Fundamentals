@@ -1,0 +1,7 @@
+Swing :
+
+The Java Swing is part of the Java Foundation Classes (JFC) 
+which is used to build widow-based applications. 
+Like AWT, Java Swing offers platform-dependent and lightweight components. 
+The javax.swing package provides JButton, JTextField, JTextArea, JRadioButton, 
+JCheckbox, JMenu, JColorChooser, and so on classes for java swing API.
