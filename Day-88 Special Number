@@ -1,0 +1,7 @@
+Special Number in java:
+
+A number is said to be special number when the sum of factorial of its digits is equal to the number itself.
+Example- 145 is a Special Number as 1!+4!+5!=145.
+A number is said to be Krishnamurthy Number when the sum of factorial of its digits is equal to the number itself. 
+Example- 145 is a Krishnamurthy Number as 1!+4!+5!=145.
+then, it is called a special number.
