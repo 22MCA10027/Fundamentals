@@ -1,0 +1,7 @@
+Tree:
+
+A Tree is a non-linear data structure and a hierarchy consisting of a collection of nodes.
+such that each node of the tree stores a value and a list of references to other nodes (the “children”).
+This data structure is a specialized method to organize and store data in the computer to be used more effectively. 
+It consists of a central node, structural nodes, and sub-nodes, which are connected via edges. 
+We can also say that tree data structure has roots, branches, and leaves connected with one another. 
