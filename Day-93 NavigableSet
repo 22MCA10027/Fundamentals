@@ -1,0 +1,6 @@
+NavigableSet:
+
+NavigableSet represents a navigable set in Java Collection Framework.
+The NavigableSet interface inherits from the SortedSet interface. 
+It behaves like a SortedSet with the exception that we have navigation methods available
+in addition to the sorting mechanisms of the SortedSet. 
